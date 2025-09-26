@@ -8,4 +8,4 @@ clone the respository
 run the program
 
 ## note
-this project is***very important*** for understanding
+***this project isvery important for understanding***
