@@ -3,4 +3,4 @@ soem
 ## degree
 bccs
 ### hobby
-playing digitially games
+playing digitially games,playing football
